@@ -1,0 +1,21 @@
+{
+  "name": "cakebox-light",
+  "version": "1.9.6",
+  
+"dependencies": {
+    "bootstrap": "5.1.3",
+    "angular": "~1.8.2",
+    "angular-i18n": "~1.8.2",
+    "angular-resource": "~1.8.2",
+    "angular-route": "~1.8.2",
+    "angular-bootstrap": "~10.0.0",
+    "alertify.js": "~1.13.1",
+    "angular-translate": "~2.19.0",
+    "angular-translate-loader-static-files": "~2.19.0",
+    "zeroclipboard": "~2.3.0",
+    "ng-clip": "~0.2.6",
+    "ng-file-upload": "~12.2.13",
+    "crypto-js": "master",
+    "angular-cookies": "~1.8.2"
+}
+}
